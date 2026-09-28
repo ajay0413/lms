@@ -949,7 +949,7 @@ function Sidebar({ currentLesson, setCurrentLesson }) {
         </div>
 
         <div>
-          <strong>Python Lab</strong>
+          <strong>Python</strong>
           <span>Interactive Learning</span>
         </div>
       </div>
